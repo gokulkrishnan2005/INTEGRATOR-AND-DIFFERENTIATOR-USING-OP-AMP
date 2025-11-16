@@ -1,4 +1,4 @@
-# DESIGN OF INTEGRATOR-AND-DIFFERENTIATOR-USING-OP-AMP
+![734508e2-65f5-4efe-a9b6-23b2b5c0d8b2](https://github.com/user-attachments/assets/61776c79-64ff-4836-b775-73b769c7f4fa)# DESIGN OF INTEGRATOR-AND-DIFFERENTIATOR-USING-OP-AMP
 # AIM: 
 To design and test the performance of integrator and differentiator circuits using Op-amp 741.
 
@@ -16,6 +16,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 
 # DESIGN:
+![8694b98a-9d3c-49ae-9de5-70cf5fa49f51](https://github.com/user-attachments/assets/db9573b7-89d0-49e9-a528-81a2b32b4cd5)
 
 # INTEGRATOR CIRCUIT DIAGRAM
 <img width="446" height="270" alt="image" src="https://github.com/user-attachments/assets/521ab839-8846-49d0-bc6d-d8b2105934f3" />
@@ -28,6 +29,7 @@ The integrator is most commonly used in analog computers and ADC and signal-wave
 <img width="678" height="358" alt="image" src="https://github.com/user-attachments/assets/3a9d9a97-3057-49e5-8622-3d4862b8a053" />
 
 # TABULATION:
+![f65f9392-e4bd-4bd8-a2bc-40557b8022ac](https://github.com/user-attachments/assets/9acbd98d-2e28-4bbd-95c6-c2e8c81e0b0b)
 
 # THEORY:
 # DIFFEERENTIATOR:
@@ -41,6 +43,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 # DESIGN:
+![095fb501-59bf-47bb-b0a3-ea6908f40d77](https://github.com/user-attachments/assets/6b59348b-8033-4d5e-ba37-ec6602c3803e)
 
 # DIFFERENTIATOR CIRCUIT DIAGRAM
 <img width="485" height="264" alt="image" src="https://github.com/user-attachments/assets/f5242bb4-723a-447c-85a9-02798491222b" />
@@ -54,6 +57,7 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 
 
 # TABULATION:
+![f7732e85-60e1-4e9a-85b0-ae6b7b5b44e9](https://github.com/user-attachments/assets/ea3f71cd-fe6f-4704-a1eb-2400e602b725)
 
 # PROCEDURE:
 1. Connections are given as per the circuit diagram
@@ -64,11 +68,14 @@ RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
 
 # INTEGRATOR GRAPH
+![734508e2-65f5-4efe-a9b6-23b2b5c0d8b2](https://github.com/user-attachments/assets/186e5974-c0c1-4e49-bb39-ff6366a4b256)
 
 # DIFFERENTIATOR GRAPH
+![96bd599b-ed99-4c0b-a99f-8d18fdf5b79c](https://github.com/user-attachments/assets/953cf6ed-4293-412c-a754-6f3a6489e7b5)
 
 
 # RESULT:
+![cc5fbbe6-570a-4cb7-933f-c797e401c809](https://github.com/user-attachments/assets/586f274c-d02a-44d7-b272-733c74ad0149)
 
 
 

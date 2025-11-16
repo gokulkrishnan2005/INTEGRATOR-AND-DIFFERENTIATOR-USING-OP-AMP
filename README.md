@@ -1,4 +1,4 @@
-![734508e2-65f5-4efe-a9b6-23b2b5c0d8b2](https://github.com/user-attachments/assets/61776c79-64ff-4836-b775-73b769c7f4fa)# DESIGN OF INTEGRATOR-AND-DIFFERENTIATOR-USING-OP-AMP
+
 # AIM: 
 To design and test the performance of integrator and differentiator circuits using Op-amp 741.
 
